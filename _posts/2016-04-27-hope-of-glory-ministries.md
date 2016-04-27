@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Hope of Glory Ministries
-datePublished: '2016-04-27T16:26:31.688Z'
-dateModified: '2016-04-27T16:26:00.061Z'
+description: Bringing the Love of God to the Nations
+datePublished: '2016-04-27T16:31:06.371Z'
+dateModified: '2016-04-27T16:30:43.116Z'
 title: ''
 author: []
 authors: []
@@ -22,6 +22,4 @@ url: hope-of-glory-ministries/index.html
 _type: Article
 
 ---
-Hope of Glory Ministries
-
-The Love of God to the Nations
+Bringing the Love of God to the Nations
