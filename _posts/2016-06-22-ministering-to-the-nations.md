@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Ministering to the Nations
-datePublished: '2016-06-22T16:14:57.800Z'
-dateModified: '2016-06-22T16:12:06.328Z'
+datePublished: '2016-06-23T15:17:21.606Z'
+dateModified: '2016-06-23T15:12:41.591Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-22-ministering-to-the-nations.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-22-ministering-to-the-nations.md
+starred: true
 url: ministering-to-the-nations/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db007ff7-7fd7-4a28-8172-00195fa376b5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a663167-4d2a-42e6-8b57-96914394d7e9.jpg)
 
 Ministering to the Nations
