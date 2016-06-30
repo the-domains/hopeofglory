@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Ministering to the Nations
-datePublished: '2016-06-29T21:31:02.764Z'
-dateModified: '2016-06-29T21:30:57.362Z'
+datePublished: '2016-06-30T15:29:45.578Z'
+dateModified: '2016-06-30T15:22:06.859Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-22-ministering-to-the-nations.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: ministering-to-the-nations/index.html
-_type: MediaObject
+_type: Article
 
 ---
 Ministering to the Nations
