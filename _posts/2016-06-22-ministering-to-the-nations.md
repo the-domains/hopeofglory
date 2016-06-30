@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Ministering to the Nations
-datePublished: '2016-06-30T15:29:45.578Z'
-dateModified: '2016-06-30T15:22:06.859Z'
+datePublished: '2016-06-30T15:30:57.027Z'
+dateModified: '2016-06-30T15:29:55.074Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-22-ministering-to-the-nations.md
