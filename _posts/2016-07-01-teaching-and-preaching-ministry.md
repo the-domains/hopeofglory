@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: 'Teaching and Preaching Ministry '
-datePublished: '2016-07-01T16:57:07.261Z'
-dateModified: '2016-07-01T16:57:00.362Z'
+description: Teaching and Preaching Ministry
+datePublished: '2016-07-01T17:17:52.922Z'
+dateModified: '2016-07-01T17:15:14.723Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-01-teaching-and-preaching-ministry.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-01-teaching-and-preaching-ministry.md
 url: teaching-and-preaching-ministry/index.html
 _type: Article
 
