@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Ministering to the Children of the World
-datePublished: '2016-07-01T16:36:27.108Z'
-dateModified: '2016-07-01T16:36:08.179Z'
+datePublished: '2016-07-01T17:15:29.749Z'
+dateModified: '2016-07-01T17:09:07.349Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-01-ministering-to-the-children-of-the-world.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-01-ministering-to-the-children-of-the-world.md
 url: ministering-to-the-children-of-the-world/index.html
 _type: Article
 
