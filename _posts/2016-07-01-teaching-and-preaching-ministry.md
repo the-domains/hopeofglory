@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Teaching and Preaching Ministry
-datePublished: '2016-07-01T17:17:52.922Z'
-dateModified: '2016-07-01T17:15:14.723Z'
+datePublished: '2016-07-05T16:41:51.103Z'
+dateModified: '2016-07-05T16:41:47.349Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-01-teaching-and-preaching-ministry.md
