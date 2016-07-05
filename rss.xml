@@ -4,7 +4,7 @@
         <description><![CDATA[Hope of Glory Ministries]]></description>
         <link>https://thegrid.ai/hopeofglory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 21:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 21:31:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hopeofglory/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bringing God's Gospel to the Nations]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/hopeofglory/front-page/index.html</link>
             <guid isPermaLink="false">9f6b4ed6-1861-4573-9fdd-9d936af1c801</guid>
             <pubDate>Tue, 05 Jul 2016 21:29:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ministering to the Nations]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a663167-4d2a-42e6-8b57-96914394d7e9.jpg">]]></description>
+            <link>https://thegrid.ai/hopeofglory/ministering-to-the-nations/index.html</link>
+            <guid isPermaLink="false">fe46595d-5d32-470f-8a31-555da4ab5f38</guid>
+            <pubDate>Tue, 05 Jul 2016 21:31:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Removing the Heavy Burdens]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/hopeofglory/teaching-and-preaching-ministry/index.html</link>
             <guid isPermaLink="false">45263626-116c-460e-8320-6f1f60af9e86</guid>
             <pubDate>Tue, 05 Jul 2016 16:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ministering to the Nations]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a663167-4d2a-42e6-8b57-96914394d7e9.jpg">]]></description>
-            <link>https://thegrid.ai/hopeofglory/ministering-to-the-nations/index.html</link>
-            <guid isPermaLink="false">fe46595d-5d32-470f-8a31-555da4ab5f38</guid>
-            <pubDate>Fri, 01 Jul 2016 17:15:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
