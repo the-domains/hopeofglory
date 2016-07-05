@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Ministering to the Children of the World
-datePublished: '2016-07-01T17:15:29.749Z'
-dateModified: '2016-07-01T17:09:07.349Z'
+datePublished: '2016-07-05T16:43:33.362Z'
+dateModified: '2016-07-05T16:43:33.027Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-01-ministering-to-the-children-of-the-world.md
